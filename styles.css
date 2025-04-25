@@ -1,0 +1,42 @@
+/* Element Selector */
+p {
+  font-family: 'Georgia', serif;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+/* ID Selector */
+#main-heading {
+  color: teal;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+/* Class Selector */
+.intro {
+  font-size: 18px;
+  font-style: italic;
+  color: darkred;
+}
+
+/* Styling an image */
+.featured-img {
+  width: 150px;
+  height: auto;
+  border: 3px solid #444;
+  padding: 5px;
+  margin: 10px;
+  display: block;
+}
+
+/* Margin, Padding & Border on a box */
+.box {
+  background-color: #f0f0f0;
+  margin: 20px auto;
+  padding: 15px;
+  border: 2px dashed #666;
+  width: 60%;
+  text-align: center;
+  font-family: 'Verdana', sans-serif;
+}
+ 
